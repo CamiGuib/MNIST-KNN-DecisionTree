@@ -9,8 +9,8 @@ Este trabajo se centra en la implementación y análisis de dos técnicas esenci
 
 Dentro de nuestras implementaciones:
 
-    - Con el algoritmo KNN, se desarrollaron distintos modelos considerando variados subconjuntos de atributos.
-    - En cuanto a los árboles de decisión, se experimentó con árboles de diferentes profundidades.
+- Con el algoritmo KNN, se desarrollaron distintos modelos considerando variados subconjuntos de atributos.
+- En cuanto a los árboles de decisión, se experimentó con árboles de diferentes profundidades.
 
 Todos los modelos propuestos fueron evaluados utilizando sets de prueba, y sus resultados y análisis de rendimiento se detallan en el documento informe.pdf.
 

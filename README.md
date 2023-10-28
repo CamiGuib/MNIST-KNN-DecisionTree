@@ -5,16 +5,16 @@ y Naturales", UBA.
 
 ## Descripción del proyecto
 
-El objetivo de este trabajo es desarrollar y analizar dos técnicas de machine learning: KNN y árboles de decisión. 
-Para ello se trabaja con la base de datos MNIST ampliamente utilizada en el campo del aprendizaje automático, que 
-contiene información sobre imágenes de dígitos numéricos manuscritos. Se crearon modelos de clasificación, donde, 
-dada una imagen de un dígito escrito a mano, se predijo a qué dígito correspondía.
-En el caso del algoritmo KNN se crearon varios modelos predictores considerando varios subconjuntos de 
-atributos diferentes; en el caso de los árboles de decisión se crearon varios modelos con árboles de profundidades
-diferentes. Cada uno de estos modelos fueron evaluados usando conjuntos de datos de testing y se analizaron sus 
-correspondientes performances, las cuales están informadas en `ìnforme.pdf`.
-Ver información mas detallada en `ìnforme.pdf`.
-Todo fue implementado en Python. 
+Este trabajo se centra en la implementación y análisis de dos técnicas esenciales de machine learning: KNN (k-Nearest Neighbors) y árboles de decisión. Utilizamos el dataset MNIST, una referencia en el aprendizaje automático para el reconocimiento de imágenes de dígitos escritos a mano.
+
+Dentro de nuestras implementaciones:
+
+    - Con el algoritmo KNN, se desarrollaron distintos modelos considerando variados subconjuntos de atributos.
+    - En cuanto a los árboles de decisión, se experimentó con árboles de diferentes profundidades.
+
+Todos los modelos propuestos fueron evaluados utilizando sets de prueba, y sus resultados y análisis de rendimiento se detallan en el documento informe.pdf.
+
+El desarrollo completo del proyecto se realizó en Python.
 
 ## Contenido del repositorio 
 

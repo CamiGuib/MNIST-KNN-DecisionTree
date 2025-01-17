@@ -1,11 +1,11 @@
 # MNIST-KNN-DecisionTree
 
 Proyecto realizado como trabajo práctico para la materia "Laboratorio de datos" de la Facultad de Ciencias Exactas
-y Naturales", UBA. 
+y Naturales, UBA. 
 
 ## Descripción del proyecto
 
-Este trabajo se centra en la implementación y análisis de dos técnicas esenciales de machine learning: KNN (k-Nearest Neighbors) y árboles de decisión. Utilizamos el dataset MNIST, una referencia en el aprendizaje automático para el reconocimiento de imágenes de dígitos escritos a mano.
+Este trabajo se centra en la implementación y análisis de dos técnicas esenciales de machine learning: KNN (K-Nearest Neighbors) y árboles de decisión. Utilizamos el dataset MNIST con el fin de hacer reconocimiento de imágenes de dígitos escritos a mano.
 
 Dentro de nuestras implementaciones:
 
